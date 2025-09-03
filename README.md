@@ -10,8 +10,8 @@ The solution includes:
 
 ## ⚙️ Setup
 ```bash
-git clone <dipu-michael>
-cd ai-agent-challenge
+git clone https://github.com/dipu-michael/ai-agent-challenge.git demo-run
+cd demo-run
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
