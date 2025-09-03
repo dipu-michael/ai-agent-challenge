@@ -10,7 +10,7 @@ The solution includes:
 
 ## ⚙️ Setup
 ```bash
-git clone <your-repo-url>
+git clone <dipu-michael>
 cd ai-agent-challenge
 python3 -m venv venv
 source venv/bin/activate
