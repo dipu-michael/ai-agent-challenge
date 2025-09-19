@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual Environment ---
+env/
+venv/
+.venv/
+
+# --- Logs & Debug ---
+*.log
+logs/
+debug_pdf.py
+run_parser.py
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Test & Cache ---
+.pytest_cache/
+.cache/
+
+# --- Environment & Secrets ---
+.env
+.env.*
+!*.env.example
+
+# --- Data Outputs ---
+data/*/*_parsed.csv
