@@ -81,6 +81,10 @@ PYTHONPATH=. pytest tests/ -v
 ✨ Features
 Autonomous parser generation with Gemini
 Validation against ground-truth CSVs
+
+Demo:
+https://drive.google.com/file/d/1ciq13KWbtBWmXZGKHCyoqg1PcPM74rJU/view?usp=drivesdk
+
 Self-correcting loop (up to 3 attempts)
 Extensible to multiple banks
 
